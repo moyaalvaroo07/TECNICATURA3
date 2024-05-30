@@ -1,0 +1,20 @@
+{
+    "adas": [],
+    "lider": [
+        {
+            "exercise": "pecho",
+            "sets": 3,
+            "reps": 5
+        },
+        {
+            "exercise": "pechamen",
+            "sets": 4,
+            "reps": 10
+        },
+        {
+            "exercise": "cola",
+            "sets": 3,
+            "reps": 10
+        }
+    ]
+}
